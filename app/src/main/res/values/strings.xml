@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DownloaderFile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="download_file">Descargando archivo</string>
+    <string name="permission_write_external">Dame los permisos plssss</string>
+    <string name="cant_do_without_permissions">No puedo hacer eso si deniegas los permisos</string>
+</resources>
